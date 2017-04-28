@@ -34,8 +34,10 @@ ul{
 .bottom-text{
     width: 400px;
 }
-
+img.logo{
+    margin-top: -280px;
+    height: 80px;
+}
 #bottom-line{
     margin-left: 30px;
 }
-
