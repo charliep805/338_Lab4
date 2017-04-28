@@ -1,0 +1,19 @@
+.top{
+    background-color: black;
+    height: 350px;
+    padding: 30px;
+}
+
+.top img{
+    width: 300px;
+}
+.image{
+    width: 400px;
+}
+.text{
+    margin-left: 220px;
+    margin-top: -200px;
+    color: white;
+}
+
+
