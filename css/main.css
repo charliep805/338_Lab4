@@ -7,13 +7,35 @@
 .top img{
     width: 300px;
 }
-.image{
-    width: 400px;
-}
+
 .text{
     margin-left: 220px;
     margin-top: -200px;
     color: white;
 }
+.bottom img{
+    position: fixed;
+    height: 100px;
+    margin-left: 500px;
+}
+h1{
+    color: #f87300;
+}
+h2{
+    color:#c7c7c7;
+    text-align: center;
+}
+hr{
+    margin-top: -20px;
+}
+ul{
+    margin-left: -25px;
+}
+.bottom-text{
+    width: 400px;
+}
 
+#bottom-line{
+    margin-left: 30px;
+}
 
